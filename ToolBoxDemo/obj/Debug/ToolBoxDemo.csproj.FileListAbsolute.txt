@@ -1,0 +1,7 @@
+C:\ElevenFiftyProjects\Week2\ToolBoxDemo\ToolBoxDemo\bin\Debug\ToolBoxDemo.exe.config
+C:\ElevenFiftyProjects\Week2\ToolBoxDemo\ToolBoxDemo\bin\Debug\ToolBoxDemo.exe
+C:\ElevenFiftyProjects\Week2\ToolBoxDemo\ToolBoxDemo\bin\Debug\ToolBoxDemo.pdb
+C:\ElevenFiftyProjects\Week2\ToolBoxDemo\ToolBoxDemo\obj\Debug\ToolBoxDemo.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\Week2\ToolBoxDemo\ToolBoxDemo\obj\Debug\ToolBoxDemo.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\Week2\ToolBoxDemo\ToolBoxDemo\obj\Debug\ToolBoxDemo.exe
+C:\ElevenFiftyProjects\Week2\ToolBoxDemo\ToolBoxDemo\obj\Debug\ToolBoxDemo.pdb
